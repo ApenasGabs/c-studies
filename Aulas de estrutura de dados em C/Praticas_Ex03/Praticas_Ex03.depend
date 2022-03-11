@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585235906 source:c:\users\giull\onedrive - adtalem educacional do brasil\aulas\ed\praticas\ed-i\ed-lab2\praticas_ex03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
